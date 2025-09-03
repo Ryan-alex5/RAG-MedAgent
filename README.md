@@ -1,5 +1,5 @@
 # Antenatal Care AI – Medical RAG Assistant
-Ask questions about antenatal care based on official obstetric guidelines. This assistant helps medical students by giving accurate, evidence-based answers from trusted sources. It remembers your conversation and responds only using the provided documents. A Retrieval-Augmented Generation (RAG) chatbot designed to assist medical students in learning about antenatal care using official obstetrics guidelines.
+Ask questions about antenatal care based on official Irish obstetric guidelines. This assistant helps medical students by giving accurate, evidence-based answers from trusted sources. It remembers your conversation and responds only using the provided documents. A Retrieval-Augmented Generation (RAG) chatbot designed to assist medical students in learning about antenatal care using official obstetrics guidelines.
 
 ## 🧠 What It Does
 
